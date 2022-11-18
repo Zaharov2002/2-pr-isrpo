@@ -23,9 +23,10 @@ namespace _2_pr_isrpo
         public MainWindow()
         {
             InitializeComponent();
-            H.Text = "5,5";
-            P.Text = "4,3";
-            R.Text = "2,8";
+            H.Text = "8";
+            P.Text = "6";
+            R.Text = "4";
+            Itog.Text = "большая R заменена на p";
         }
 
         private void Schet_Click(object sender, RoutedEventArgs e)
